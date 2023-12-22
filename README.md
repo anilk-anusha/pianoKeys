@@ -20,9 +20,9 @@ This project is a part of the BUILDING INTERACTIVE JAVASCRIPT WEBSITES course fr
 
 ## To-do List
 
-- [ ] Create An Interactive Piano Game
-- [ ] Change lyrics interactively
-- [ ] Change piano keys colors
+- [x] Create An Interactive Piano Game
+- [x] Change lyrics interactively
+- [x] Change piano key colors
 
 ## Screenshots
 
